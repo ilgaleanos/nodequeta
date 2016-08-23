@@ -1,0 +1,25 @@
+{
+	"name": "Maqueta",
+	"version": "0.0.1",
+	"description": "Inicio rapido package.json",
+	"keywords": [],
+	"author": "ilgaleanos",
+	"license": "MIT",
+	"dependencies": {
+
+	},
+	"devDependencies": {
+		"grunt":"latest",
+		"browserify": "latest",
+		"babelify": "latest",
+		"grunt-cli": "latest",
+		"babel-cli": "latest",
+		"grunt-contrib-watch": "latest",
+		"grunt-browserify": "latest",
+		"babel-preset-react": "latest",
+		"babel-preset-es2015":"latest",
+		"babel-preset-stage-0":"latest",
+		"babel-plugin-transform-decorators-legacy":"latest",
+		"grunt-closure-compiler":"latest"
+	}
+}
